@@ -13,5 +13,6 @@ app.post('/', function(request){
 
     if(OpenOrClosed() == false){
 //yeah
+//yeah2
     }
 }
