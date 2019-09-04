@@ -12,6 +12,6 @@ app.post('/', function(request){
     committer = request.body["commit"];
 
     if(OpenOrClosed() == false){
-
+//yeah
     }
 }
